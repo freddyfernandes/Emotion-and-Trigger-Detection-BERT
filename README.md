@@ -54,14 +54,5 @@ Our experiments revealed:
 
 This project demonstrates the effectiveness of BERT-based models in detecting emotions and triggers within conversational data. The separate model approach for emotion and trigger detection provides insights into the complexities of natural language understanding in dialogues.
 
-## References
-
-- HunEmBERT: A Fine-Tuned BERT Model for Classifying Sentiment and Emotion in Political Communication
-- Fine-Tuning DistilBERT for Emotion Classification
-- Knowledge-based BERT word embedding fine-tuning for emotion recognition
-- BERT 101-State Of The Art NLP Model Explained
-- Why AdamW matters
-
----
 
 For more details on the implementation, please refer to the code and report provided in this repository.
